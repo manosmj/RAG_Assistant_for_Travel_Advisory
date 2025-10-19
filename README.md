@@ -1,4 +1,5 @@
-# RAG-Based AI Assistant for Travel Advice - AAIDC Project 1
+
+# 🤖 RAG-Based Travel Assistant
 
 This application is a user-friendly tool for obtaining real-time weather data and relevant travel advice for any country in the world. By simply entering a country name, users can instantly access key weather metrics and receive curated tips to help them plan their trip effectively. This app leverages Open Weather API to provide accurate, up-to-date information, making it a convenient resource for travelers, students, or anyone interested in global weather patterns.
 
