@@ -1,0 +1,8 @@
+Weather Forecast
+Generated on: 2025-10-19 15:46:35
+Location: Moravče, SI
+Temperature: 10.64°C
+Feels Like: 9.25°C
+Humidity: 57%
+Weather: broken clouds
+Wind Speed: 1.44 m/s

@@ -1,0 +1,8 @@
+Weather Forecast
+Generated on: 2025-10-19 15:43:06
+Location: Nikšić, ME
+Temperature: 8.1°C
+Feels Like: 8.1°C
+Humidity: 56%
+Weather: few clouds
+Wind Speed: 0.9 m/s

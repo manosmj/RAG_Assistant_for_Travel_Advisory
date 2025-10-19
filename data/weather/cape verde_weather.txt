@@ -1,0 +1,8 @@
+Weather Forecast
+Generated on: 2025-10-19 15:41:44
+Location: Republic of Cabo Verde, CV
+Temperature: 25.81°C
+Feels Like: 26.46°C
+Humidity: 77%
+Weather: clear sky
+Wind Speed: 4.56 m/s

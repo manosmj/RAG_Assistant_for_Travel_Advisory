@@ -1,0 +1,8 @@
+Weather Forecast
+Generated on: 2025-10-19 15:42:33
+Location: Midreshet Ben-Gurion, IL
+Temperature: 25.54°C
+Feels Like: 25.27°C
+Humidity: 43%
+Weather: clear sky
+Wind Speed: 4.29 m/s

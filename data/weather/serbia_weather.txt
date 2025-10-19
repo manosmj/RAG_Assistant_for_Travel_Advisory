@@ -1,0 +1,8 @@
+Weather Forecast
+Generated on: 2025-10-19 15:46:30
+Location: Central Serbia, RS
+Temperature: 10.83°C
+Feels Like: 9.27°C
+Humidity: 50%
+Weather: clear sky
+Wind Speed: 2.56 m/s

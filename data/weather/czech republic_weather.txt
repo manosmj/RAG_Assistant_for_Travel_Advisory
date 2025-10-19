@@ -1,0 +1,8 @@
+Weather Forecast
+Generated on: 2025-10-19 15:41:56
+Location: Ledeč nad Sázavou, CZ
+Temperature: 5.74°C
+Feels Like: 2.7°C
+Humidity: 63%
+Weather: overcast clouds
+Wind Speed: 4.12 m/s

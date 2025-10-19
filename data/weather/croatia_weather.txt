@@ -1,0 +1,8 @@
+Weather Forecast
+Generated on: 2025-10-19 15:41:53
+Location: Vojnić, HR
+Temperature: 10.35°C
+Feels Like: 9.24°C
+Humidity: 69%
+Weather: broken clouds
+Wind Speed: 1.06 m/s
