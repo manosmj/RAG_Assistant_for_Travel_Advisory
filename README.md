@@ -3,7 +3,7 @@
 
 This application is a user-friendly tool for obtaining real-time weather data and relevant travel advice for any country in the world. By simply entering a country name, users can instantly access key weather metrics and receive curated tips to help them plan their trip effectively. This app leverages Open Weather API to provide accurate, up-to-date information, making it a convenient resource for travelers, students, or anyone interested in global weather patterns.
 
-Features:
+## Features:
 
 - RAG (Retrieval-Augmented Generation) travel assistant core:
   - Retrieval + generation pipeline that searches a vector DB for relevant context and uses an LLM to generate answers.
