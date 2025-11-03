@@ -74,16 +74,23 @@ pip install -r requirements.txt
 ```
 
 ### 4. Configure API Keys
-Set up your API keys as environment variables:
+Create `.env` file and add your API keys as environment variables:
 ```sh
 # For OpenWeather API
-export OPENWEATHER_API_KEY="your-openweather-api-key"
+OPENWEATHER_API_KEY="your-openweather-api-key"
 # For LLM Service
-export GROQ_API_KEY="your-groq-api-key"
+GROQ_API_KEY="your-groq-api-key"
 or
-export GOOGLE_API_KEY="your-google-api-key"
+GOOGLE_API_KEY="your-google-api-key"
 or
-export OPEN_API_KEY="your-open-api-key"
+OPEN_API_KEY="your-open-api-key"
+```
+Sample of `.env` file looks like this:
+```sh
+# For OpenWeather API
+OPENWEATHER_API_KEY="your-openweather-api-key"
+# For LLM Service
+GROQ_API_KEY="your-groq-api-key"
 ```
 
 ### 5. Prepare Data
